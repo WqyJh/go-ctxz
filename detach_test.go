@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/WqyJh/ctxz"
 	"github.com/stretchr/testify/assert"
+	"github.com/wqyjh/go-ctxz"
 )
 
 func TestWithoutCancel(t *testing.T) {

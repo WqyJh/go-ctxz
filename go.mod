@@ -1,4 +1,4 @@
-module github.com/WqyJh/ctxz
+module github.com/wqyjh/go-ctxz
 
 go 1.18
 

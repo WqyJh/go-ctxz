@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/WqyJh/ctxz"
 	"github.com/stretchr/testify/assert"
+	"github.com/wqyjh/go-ctxz"
 )
 
 func TestMaybeTimtout(t *testing.T) {
